@@ -840,7 +840,7 @@ if ($nuevonum > 0) { ?>
 
                                 <div class="col-md-7">
 
-                                    <input type="text" class="form-control" readonly="" id="_st" name="importe" value="<?php echo number_format($valor_supremo, 2); ?>"  required="" />
+                                    <input type="text" class="form-control" readonly="" id="_st" name="importe" value="<?php echo number_format(@$valor_supremo, 2); ?>"  required="" />
 
                                 </div>
 
@@ -968,7 +968,7 @@ if ($nuevonum > 0) { ?>
 
                         <div style="background: black;color: chartreuse; padding: 2px;">
 
-                            <center><h1><b>TOTAL: <?php echo number_format($valor_supremo, 2); ?></b></h1></center>
+                            <center><h1><b>TOTAL: <?php echo number_format(@$valor_supremo, 2); ?></b></h1></center>
 
                         </div>
 
