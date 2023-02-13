@@ -1,0 +1,21 @@
+[01-Sep-2022 02:15:33 UTC] PHP Warning:  include(categoria/barcode128.php): failed to open stream: No such file or directory in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:15:33 UTC] PHP Warning:  include(categoria/barcode128.php): failed to open stream: No such file or directory in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:15:33 UTC] PHP Warning:  include(): Failed opening 'categoria/barcode128.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:15:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bar128() in /home/sorymart/public_html/init/app/categoria/barcode.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/sorymart/public_html/init/app/categoria/barcode.php on line 40
+[01-Sep-2022 02:16:48 UTC] PHP Warning:  include(categoria/barcode128.php): failed to open stream: No such file or directory in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:16:48 UTC] PHP Warning:  include(categoria/barcode128.php): failed to open stream: No such file or directory in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:16:48 UTC] PHP Warning:  include(): Failed opening 'categoria/barcode128.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bar128() in /home/sorymart/public_html/init/app/categoria/barcode.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/sorymart/public_html/init/app/categoria/barcode.php on line 40
+[01-Sep-2022 02:16:59 UTC] PHP Warning:  include(categoria/barcode128.php): failed to open stream: No such file or directory in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:16:59 UTC] PHP Warning:  include(categoria/barcode128.php): failed to open stream: No such file or directory in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:16:59 UTC] PHP Warning:  include(): Failed opening 'categoria/barcode128.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/sorymart/public_html/init/app/categoria/barcode.php on line 28
+[01-Sep-2022 02:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bar128() in /home/sorymart/public_html/init/app/categoria/barcode.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/sorymart/public_html/init/app/categoria/barcode.php on line 40

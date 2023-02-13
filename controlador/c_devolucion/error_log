@@ -1,0 +1,3 @@
+[05-Aug-2021 20:46:15 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proyecto/compraventaorden.proyectosrender.com/datos/db/connect.php on line 3
+[05-Aug-2021 20:47:07 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proyecto/compraventaorden.proyectosrender.com/datos/db/connect.php on line 3
+[05-Aug-2021 20:47:16 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/proyecto/compraventaorden.proyectosrender.com/datos/db/connect.php on line 3

@@ -1,0 +1,1 @@
+[18-Dec-2022 16:26:56 America/Guayaquil] PHP Fatal error:  Call to a member function prepare() on null in /home/sorymart/public_html/init/app/head.php on line 4

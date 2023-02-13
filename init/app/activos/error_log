@@ -1,0 +1,170 @@
+[05-Jan-2020 17:43:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 17:43:09 UTC] PHP Stack trace:
+[05-Jan-2020 17:43:09 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:43:09 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:43:09 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 17:43:09 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 17:43:09 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 17:43:09 UTC] PHP Stack trace:
+[05-Jan-2020 17:43:09 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:43:09 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:51:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 17:51:28 UTC] PHP Stack trace:
+[05-Jan-2020 17:51:28 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:51:28 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:51:28 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 17:51:28 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 17:51:28 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 17:51:28 UTC] PHP Stack trace:
+[05-Jan-2020 17:51:28 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:51:28 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:52:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 17:52:17 UTC] PHP Stack trace:
+[05-Jan-2020 17:52:17 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:52:17 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:52:17 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 17:52:17 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 17:52:17 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 17:52:17 UTC] PHP Stack trace:
+[05-Jan-2020 17:52:17 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:52:17 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:52:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 17:52:21 UTC] PHP Stack trace:
+[05-Jan-2020 17:52:21 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:52:21 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:52:21 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 17:52:21 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 17:52:21 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 17:52:21 UTC] PHP Stack trace:
+[05-Jan-2020 17:52:21 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:52:21 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:54:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 17:54:02 UTC] PHP Stack trace:
+[05-Jan-2020 17:54:02 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:54:02 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:54:02 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 17:54:02 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 17:54:02 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 17:54:02 UTC] PHP Stack trace:
+[05-Jan-2020 17:54:02 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:54:02 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:54:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 17:54:08 UTC] PHP Stack trace:
+[05-Jan-2020 17:54:08 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:54:08 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 17:54:08 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 17:54:08 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 17:54:08 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 17:54:08 UTC] PHP Stack trace:
+[05-Jan-2020 17:54:08 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 17:54:08 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 18:05:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 18:05:49 UTC] PHP Stack trace:
+[05-Jan-2020 18:05:49 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 18:05:49 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 18:05:49 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 18:05:49 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 18:05:49 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 18:05:49 UTC] PHP Stack trace:
+[05-Jan-2020 18:05:49 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 18:05:49 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 18:05:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 18:05:53 UTC] PHP Stack trace:
+[05-Jan-2020 18:05:53 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 18:05:53 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 18:05:53 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 18:05:53 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 18:05:53 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 18:05:53 UTC] PHP Stack trace:
+[05-Jan-2020 18:05:53 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 18:05:53 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 18:06:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 18:06:08 UTC] PHP Stack trace:
+[05-Jan-2020 18:06:08 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 18:06:08 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 18:06:08 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 18:06:08 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 18:06:08 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 18:06:08 UTC] PHP Stack trace:
+[05-Jan-2020 18:06:08 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 18:06:08 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 20:53:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 20:53:29 UTC] PHP Stack trace:
+[05-Jan-2020 20:53:29 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_eli.php:0
+[05-Jan-2020 20:53:29 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_eli.php:4
+[05-Jan-2020 20:53:29 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 20:53:29 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 20:53:29 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 20:53:29 UTC] PHP Stack trace:
+[05-Jan-2020 20:53:29 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_eli.php:0
+[05-Jan-2020 20:53:29 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_eli.php:4
+[05-Jan-2020 20:53:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 20:53:34 UTC] PHP Stack trace:
+[05-Jan-2020 20:53:34 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 20:53:34 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 20:53:34 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 20:53:34 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 20:53:34 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 20:53:34 UTC] PHP Stack trace:
+[05-Jan-2020 20:53:34 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 20:53:34 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 20:54:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 20:54:33 UTC] PHP Stack trace:
+[05-Jan-2020 20:54:33 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 20:54:33 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 20:54:33 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 20:54:33 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 20:54:33 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 20:54:33 UTC] PHP Stack trace:
+[05-Jan-2020 20:54:33 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 20:54:33 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 21:01:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php on line 2
+[05-Jan-2020 21:01:07 UTC] PHP Stack trace:
+[05-Jan-2020 21:01:07 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 21:01:07 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[05-Jan-2020 21:01:07 UTC] PHP   3. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php:11
+[05-Jan-2020 21:01:07 UTC] PHP   4. session_start() /home/proyecto/dev.proyectosrender.com/shopp/datos/db/connect.php:2
+[05-Jan-2020 21:01:07 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/dev.proyectosrender.com/shopp/init/app/head_unico.php on line 89
+[05-Jan-2020 21:01:07 UTC] PHP Stack trace:
+[05-Jan-2020 21:01:07 UTC] PHP   1. {main}() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:0
+[05-Jan-2020 21:01:07 UTC] PHP   2. require_once() /home/proyecto/dev.proyectosrender.com/shopp/init/app/activos/frm_activos_act.php:4
+[04-Mar-2020 01:18:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php on line 2
+[04-Mar-2020 01:18:02 UTC] PHP Stack trace:
+[04-Mar-2020 01:18:02 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:0
+[04-Mar-2020 01:18:02 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:4
+[04-Mar-2020 01:18:02 UTC] PHP   3. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php:11
+[04-Mar-2020 01:18:02 UTC] PHP   4. session_start() /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php:2
+[04-Mar-2020 01:18:02 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php on line 96
+[04-Mar-2020 01:18:02 UTC] PHP Stack trace:
+[04-Mar-2020 01:18:02 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:0
+[04-Mar-2020 01:18:02 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:4
+[04-Mar-2020 01:18:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php on line 2
+[04-Mar-2020 01:18:16 UTC] PHP Stack trace:
+[04-Mar-2020 01:18:16 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_eli.php:0
+[04-Mar-2020 01:18:16 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_eli.php:4
+[04-Mar-2020 01:18:16 UTC] PHP   3. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php:11
+[04-Mar-2020 01:18:16 UTC] PHP   4. session_start() /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php:2
+[04-Mar-2020 01:18:16 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php on line 96
+[04-Mar-2020 01:18:16 UTC] PHP Stack trace:
+[04-Mar-2020 01:18:16 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_eli.php:0
+[04-Mar-2020 01:18:16 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_eli.php:4
+[02-May-2020 19:31:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php on line 2
+[02-May-2020 19:31:44 UTC] PHP Stack trace:
+[02-May-2020 19:31:44 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:0
+[02-May-2020 19:31:44 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:4
+[02-May-2020 19:31:44 UTC] PHP   3. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php:11
+[02-May-2020 19:31:44 UTC] PHP   4. session_start() /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php:2
+[02-May-2020 19:31:44 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php on line 97
+[02-May-2020 19:31:44 UTC] PHP Stack trace:
+[02-May-2020 19:31:44 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:0
+[02-May-2020 19:31:44 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:4
+[13-May-2020 18:56:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php on line 2
+[13-May-2020 18:56:38 UTC] PHP Stack trace:
+[13-May-2020 18:56:38 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:0
+[13-May-2020 18:56:38 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:4
+[13-May-2020 18:56:38 UTC] PHP   3. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php:11
+[13-May-2020 18:56:38 UTC] PHP   4. session_start() /home/proyecto/compraventa.proyectosrender.com/datos/db/connect.php:2
+[13-May-2020 18:56:38 UTC] PHP Notice:  Undefined index: persona in /home/proyecto/compraventa.proyectosrender.com/init/app/head_unico.php on line 97
+[13-May-2020 18:56:38 UTC] PHP Stack trace:
+[13-May-2020 18:56:38 UTC] PHP   1. {main}() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:0
+[13-May-2020 18:56:38 UTC] PHP   2. require_once() /home/proyecto/compraventa.proyectosrender.com/init/app/activos/frm_activos_act.php:4

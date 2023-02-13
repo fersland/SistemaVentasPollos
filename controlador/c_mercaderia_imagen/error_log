@@ -1,0 +1,60 @@
+[21-Feb-2019 17:33:21 UTC] PHP Notice:  Undefined index: nombrelinea in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php on line 54
+[21-Feb-2019 17:33:21 UTC] PHP Stack trace:
+[21-Feb-2019 17:33:21 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php:0
+[21-Feb-2019 17:33:21 UTC] PHP Notice:  Undefined index: nombrelinea in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php on line 54
+[21-Feb-2019 17:33:21 UTC] PHP Stack trace:
+[21-Feb-2019 17:33:21 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php:0
+[21-Feb-2019 17:34:45 UTC] PHP Notice:  Undefined index: codigo in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php on line 54
+[21-Feb-2019 17:34:45 UTC] PHP Stack trace:
+[21-Feb-2019 17:34:45 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php:0
+[21-Feb-2019 17:34:45 UTC] PHP Notice:  Undefined index: codigo in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php on line 54
+[21-Feb-2019 17:34:45 UTC] PHP Stack trace:
+[21-Feb-2019 17:34:45 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/paginarImagen.php:0
+[21-Feb-2019 18:09:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:09:18 UTC] PHP Stack trace:
+[21-Feb-2019 18:09:18 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:09:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:09:19 UTC] PHP Stack trace:
+[21-Feb-2019 18:09:19 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:09:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:09:21 UTC] PHP Stack trace:
+[21-Feb-2019 18:09:21 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:09:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:09:21 UTC] PHP Stack trace:
+[21-Feb-2019 18:09:21 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:09:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:09:21 UTC] PHP Stack trace:
+[21-Feb-2019 18:09:21 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:11 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:11 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:11 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:11 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:14 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:14 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:15 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:15 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:16 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:16 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:16 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:16 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 18:10:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 18:10:18 UTC] PHP Stack trace:
+[21-Feb-2019 18:10:18 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 19:54:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 19:54:46 UTC] PHP Stack trace:
+[21-Feb-2019 19:54:46 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 19:54:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 19:54:46 UTC] PHP Stack trace:
+[21-Feb-2019 19:54:46 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 19:54:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 19:54:47 UTC] PHP Stack trace:
+[21-Feb-2019 19:54:47 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0
+[21-Feb-2019 19:54:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php on line 9
+[21-Feb-2019 19:54:47 UTC] PHP Stack trace:
+[21-Feb-2019 19:54:47 UTC] PHP   1. {main}() /home/expriceitec/public_html/Tecnicentro/CID/controlador/c_mercaderia_imagen/busca_imagen.php:0

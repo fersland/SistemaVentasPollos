@@ -1,0 +1,102 @@
+[09-Dec-2022 03:09:07 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '<b>Todos los campos son obligatorios</b>' in /home/sorymart/public_html/init/sin/ControlCode.php:26
+Stack trace:
+#0 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate(NULL, '00000004', '200120223', '2022-12-05', '420.00', NULL)
+#1 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 26
+[09-Dec-2022 03:19:36 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022-12-09 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022-12-09')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022-12-09', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-09', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:19:40 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022-12-09 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022-12-09')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022-12-09', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-09', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:23:04 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/sorymart/public_html/init/sin/ControlCode.php on line 146
+[09-Dec-2022 03:23:04 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Valor restringido a número, 2404 no es un número.' in /home/sorymart/public_html/init/sin/ControlCode.php:147
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(28): ControlCode->validateNumber('2404')
+#1 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-09', '168.00', '2488')
+#2 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 147
+[09-Dec-2022 03:23:06 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/sorymart/public_html/init/sin/ControlCode.php on line 146
+[09-Dec-2022 03:23:06 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Valor restringido a número, 2404 no es un número.' in /home/sorymart/public_html/init/sin/ControlCode.php:147
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(28): ControlCode->validateNumber('2404')
+#1 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-09', '168.00', '2488')
+#2 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 147
+[09-Dec-2022 03:23:08 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '<b>Todos los campos son obligatorios</b>' in /home/sorymart/public_html/init/sin/ControlCode.php:26
+Stack trace:
+#0 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate(NULL, '00000004', '200120223', '2022-12-05', '420.00', NULL)
+#1 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 26
+[09-Dec-2022 03:23:49 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '<b>Todos los campos son obligatorios</b>' in /home/sorymart/public_html/init/sin/ControlCode.php:26
+Stack trace:
+#0 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate(NULL, '00000004', '200120223', '2022/12/05', '420.00', NULL)
+#1 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 26
+[09-Dec-2022 03:38:42 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022-12-09 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022-12-09')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022-12-09', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-09', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:38:47 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '<b>Todos los campos son obligatorios</b>' in /home/sorymart/public_html/init/sin/ControlCode.php:26
+Stack trace:
+#0 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate(NULL, '00000004', '200120223', '2022-12-05', '420.00', NULL)
+#1 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 26
+[09-Dec-2022 03:41:52 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022/12/08 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022/12/08')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022/12/08', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022/12/08', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:41:55 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022/12/08 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022/12/08')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022/12/08', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022/12/08', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:42:24 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022/12/08 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022/12/08')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022/12/08', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022/12/08', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:42:26 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022/12/08 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022/12/08')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022/12/08', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022/12/08', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:43:01 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022-12-08 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022-12-08')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022-12-08', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-08', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 03:43:03 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Error! Value is restricted to the number, 2022-12-08 is not a number.' in /home/sorymart/public_html/init/sin/Verhoeff.php:35
+Stack trace:
+#0 /home/sorymart/public_html/init/sin/ControlCode.php(129): Verhoeff::calc('2022-12-08')
+#1 /home/sorymart/public_html/init/sin/ControlCode.php(42): ControlCode::addVerhoeffDigit('2022-12-08', 2)
+#2 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate('2404', '00000005', '2001202204', '2022-12-08', '168.00', '2488')
+#3 {main}
+  thrown in /home/sorymart/public_html/init/sin/Verhoeff.php on line 35
+[09-Dec-2022 12:47:30 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message '<b>Todos los campos son obligatorios</b>' in /home/sorymart/public_html/init/sin/ControlCode.php:26
+Stack trace:
+#0 /home/sorymart/public_html/datos/clases/pdf/informe_ventas/venta.php(126): ControlCode->generate(NULL, '00000004', '200120223', '20221205', '420.00', NULL)
+#1 {main}
+  thrown in /home/sorymart/public_html/init/sin/ControlCode.php on line 26
