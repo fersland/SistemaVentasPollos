@@ -167,7 +167,7 @@
                 <div class="box-footer">
                 <a href="?cid=dashboard/init" class="btn bg-navy">Volver</a>
                 <button type="reset" class="btn btn-default">Cancelar</button>
-                <button type="submit" class="btn btn-warning pull-right" value="Guardar Datos" name="update" <?php echo $ee ?>>Actualizar Datos</button>
+                <button type="submit" class="btn btn-warning pull-right" value="Guardar Datos" name="update" <?php echo @$ee ?>>Actualizar Datos</button>
               </div>
             </form>
               </div>
