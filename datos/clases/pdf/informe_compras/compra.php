@@ -182,15 +182,15 @@ foreach((array) $alls as $item){
     $pdf->Cell(20   ,5,number_format($item['falta'],2,'.',''),1,0,'C');
     $pdf->Cell(189	,5,'',0,1);//end of line
     
-	$efecti = number_format($item['efectivo'],2,'.','');
-	$cambio = number_format($item['cambio'],2,'.','');
-    $import = number_format($item['importe'],2,'.','');    
+	$efecti = number_format(@$item['efectivo'],2,'.','');
+	$cambio = number_format(@$item['cambio'],2,'.','');
+    $import = number_format(@$item['importe'],2,'.','');    
 
-    $dd = number_format($item['descuento'],2,'.','');
-    $total = number_format($item['total'],2,'.','');
+    $dd = number_format(@$item['descuento'],2,'.','');
+    $total = number_format(@$item['total'],2,'.','');
     
-    $iva = number_format($item['iva'],2,'.','');
-    $total = number_format($item['total'],2,'.','');    
+    $iva = number_format(@$item['iva'],2,'.','');
+    $total = number_format(@$item['total'],2,'.','');    
     
     $mes = $item['meses'];
     $dif = $item['diferido'];
